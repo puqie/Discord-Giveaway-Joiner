@@ -11,6 +11,8 @@ This bot allows users to participate in giveaways within Discord channels automa
 - **Automated Participation:** Users can join channel giveaways seamlessly with their tokens.
 - **Effortless Management:** Simplify giveaway management tasks with automated processes.
 - **Enhanced User Engagement:** Encourage active participation and excitement within your community.
+- **Proxy Support:** Proxy-Supported Discord Giveaway Bot! Secure Token Entries Without Bans. Engage Effortlessly
+
 
 ## How It Works:
 
